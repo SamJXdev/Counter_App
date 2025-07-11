@@ -107,7 +107,7 @@ num.addEventListener("input",()=>
 https://samjxdev.github.io/Counter_App/
 
 ## Output:
-![Uploading image.png…]()
+
 
 
 ## Result:
