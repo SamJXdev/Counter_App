@@ -108,6 +108,7 @@ https://samjxdev.github.io/Counter_App/
 
 ## Output:
 
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/b166df1b-3eb5-4237-9367-5765e8cf2e6b" />
 
 
 ## Result:
